@@ -6,7 +6,7 @@ PlayerSettings:
   serializedVersion: 11
   productGUID: 483dff0cff30a5342b12a288901dc7d3
   AndroidProfiler: 0
-  defaultScreenOrientation: 0
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -516,11 +516,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Hololens-Vuforia-StormTrooper
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 004ba5d49ef8d301
   metroApplicationDescription: Hololens-Vuforia-StormTrooper
   wsaImages: {}
   metroTileShortName: 
@@ -557,7 +557,7 @@ PlayerSettings:
       Proximity: False
       RemovableStorage: False
       SharedUserCertificates: False
-      SpatialPerception: False
+      SpatialPerception: True
       UserAccountInformation: False
       VideosLibrary: False
       VoipCall: False

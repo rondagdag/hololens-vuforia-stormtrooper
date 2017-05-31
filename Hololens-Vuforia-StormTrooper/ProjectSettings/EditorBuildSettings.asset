@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ball.unity
     guid: 4519abac54597f841af8423c5916cf10
+  - enabled: 1
+    path: Assets/HoloVuforia.unity
+    guid: 4d36a36df112f8c498133eff6c7cf90a
+  - enabled: 0
+    path: Assets/Scenes/Vuforia-2-Hololens.unity
+    guid: c8dc8c5a8e70670459383013e6fc2864

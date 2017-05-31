@@ -1,24 +1,9 @@
-# 
-# 
+# Exported from 3D Builder
 
 newmtl DarthSidiousClothes
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd Darth_Sidious_D.tga
-map_Bump Darth_Sidious_N.tga
+Kd 1.000000 1.000000 1.000000
+map_Kd C:\Users\Ron Dagdag\Desktop\fkr4g1u3n0u8-Darth_Sidious\Darth_Sidious\Darth_Sidious_D.tga
 
 newmtl DarthSidiousSkin
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd Darth_Sidious_D.tga
-map_Bump Darth_Sidious_N.tga
+Kd 1.000000 1.000000 1.000000
+map_Kd C:\Users\Ron Dagdag\Desktop\fkr4g1u3n0u8-Darth_Sidious\Darth_Sidious\Darth_Sidious_D.tga
